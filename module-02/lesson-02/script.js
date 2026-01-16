@@ -84,7 +84,7 @@ btn7.onclick = fn7;
 function fn7() {
   input7 = "";
   for (let i = input7 < array.leng++) {
-    const element = ar];
+    const element = ar;
   }
 }
 //  Task 8
